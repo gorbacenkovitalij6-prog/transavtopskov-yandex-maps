@@ -10,7 +10,7 @@ export const companyConfig = {
   // Контакты
   phone: "+7 (499) 769-58-21",
   phoneLink: "+74997695821",
-  email: "transavtopskov@mail.ru",
+  email: "pskov.transavto@mail.ru",
   website: "transavtopskov.ru",
 
   // Адрес
